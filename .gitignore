@@ -1,0 +1,32 @@
+# Node / Next.js
+node_modules
+.next
+out
+dist
+
+# Env files (NEVER commit API keys or secrets)
+.env
+.env*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Mac system files
+.DS_Store
+
+# VSCode settings
+.vscode
+
+# Supabase local dev config
+.supabase
+
+# Uploaded artifacts (local storage)
+uploads/
+tmp/
+*.tmp
+
+# Keepsake exports (local only)
+keepsakes/
