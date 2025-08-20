@@ -1,0 +1,1 @@
+export default function P(){return <main className="p-10">Stub</main>}
