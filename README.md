@@ -1,8 +1,8 @@
 # Love Necromancer
-<img width="1265" height="644" alt="Screenshot 2025-08-20 at 11 03 58" src="https://github.com/user-attachments/assets/37fe5ccf-2de8-4c12-abe0-60e944317aad" />
+
+<img width="1192" height="416" alt="Screenshot 2025-08-20 at 10 30 11" src="https://github.com/user-attachments/assets/a723e61b-9bce-402c-b6ff-1a900ad6308c" />
 <img width="898" height="1083" alt="Screenshot 2025-08-20 at 11 04 15" src="https://github.com/user-attachments/assets/06130e76-1809-48f5-9119-5cdbfe5af43d" />
-
-
+<img width="1265" height="644" alt="Screenshot 2025-08-20 at 11 03 58" src="https://github.com/user-attachments/assets/37fe5ccf-2de8-4c12-abe0-60e944317aad" />
 *A grief-safe ritual for talking to a memory of someone you loved.*  
 Built with **Next.js (App Router)**, **Supabase**, and **RAG** over your encrypted memories.
 
